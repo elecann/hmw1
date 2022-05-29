@@ -1,0 +1,36 @@
+html{
+    background-color: rgba(147, 112, 216, 0.39);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-image: url(http://thebestacrylicnails.com/wp-content/uploads/2022/01/aesthetic-products-2-30.jpg);
+    height: 200px;
+
+}
+
+#utente{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: #ad1fd8;
+    font-size: large;
+    margin-bottom: 0px;
+}
+
+
+.opzioni{
+    display:flexbox;
+    flex-wrap: wrap;
+    text-align:  center;
+    border-radius: 1em;
+    background-color: #d456fb47;
+    padding: 40px;
+    position: relative;
+    top:15px;
+    bottom: 15px;
+    margin-inline: 20px;
+    border: 1px  solid #dcdcdc;
+}
+div.opzioni:hover{
+    background-color: #ad1fd8;
+}
